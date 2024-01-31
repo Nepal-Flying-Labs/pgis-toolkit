@@ -31,7 +31,7 @@ sqlparse==0.4.2
 Fiona==1.8.21
 
 
-geopandas==0.12.2 #https://geopandas.org/
+geopandas==0.14.3 #https://geopandas.org/
 mercantile==1.2.1 #https://pypi.org/project/mercantile/
 
 # django-ordered-model==3.5 #https://pythonlang.dev/repo/django-ordered-model-django-ordered-model/
